@@ -1,3 +1,3 @@
-![image](/assets/images/me.png)
+![me](/assets/images/me.png)
 
 ##About Me
