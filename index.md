@@ -1,3 +1,4 @@
-![me](/assets/images/me.png)
+
+ ![me](/assets/images/me.jpg)
 
 ##About Me
