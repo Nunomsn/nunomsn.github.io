@@ -1,3 +1,3 @@
-<img src="/assets/images/me.png" alt="">
+![image](/assets/images/me.png)
 
 ##About Me
