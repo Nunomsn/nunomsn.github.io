@@ -1,4 +1,6 @@
 
- ![me](/assets/images/me.jpg)
+ ![me](/assets/images/me.jpg){: 
+ .center-image 
+ }
 
 ##About Me
